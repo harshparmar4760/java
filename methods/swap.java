@@ -5,7 +5,7 @@ public class swap {
         int a = 10;
         int b = 20;
 
-        // swap numner code
+        // swap number code
         // int temp = a;
         // a=b;
         // b=temp;
@@ -13,6 +13,14 @@ public class swap {
         swap(a, b);
 
         System.out.println(a + " " + b);
+
+        String name = "harsh parmar";
+        changeName(name);
+        System.out.println(name);
+    }
+
+    static void changeName(String name) {
+        name = "ram jain";
     }
 
     static void swap(int a, int b) {
