@@ -48,7 +48,8 @@ public class main {
     }
     // -----------------------------------------------------------------------
 
-    // search in the array: return the index if item found other wise if item not found return -1
+    // search in the array: return the index if item found 
+    // other wise if item not found return -1
     static int linearSearch(int[] arr, int target) {
         if (arr.length == 0) {
             return -1;
