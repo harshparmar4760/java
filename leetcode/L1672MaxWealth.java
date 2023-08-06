@@ -1,7 +1,7 @@
 package leetcode;
 // https://leetcode.com/problems/richest-customer-wealth/
 
-public class MaxWealth1672 {
+public class L1672MaxWealth {
     public static void main(String[] args) {
         
     }

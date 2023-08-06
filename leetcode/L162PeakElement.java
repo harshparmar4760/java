@@ -3,7 +3,7 @@ package leetcode;
 
 // https://leetcode.com/problems/find-peak-element/
 
-public class PeakElement162 {
+public class L162PeakElement {
     public static void main(String[] args) {
         
     }

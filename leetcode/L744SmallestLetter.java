@@ -1,7 +1,7 @@
 package leetcode;
 // https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 
-public class SmallestLetter744 {
+public class L744SmallestLetter {
     public static void main(String[] args) {
 
     }

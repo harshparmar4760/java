@@ -3,7 +3,7 @@ package leetcode;
 
 // https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
-public class PeakMountainArray852 {
+public class L852PeakMountainArray {
     public static void main(String[] args) {
         
     }

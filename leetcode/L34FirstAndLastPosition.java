@@ -1,7 +1,7 @@
 package leetcode;
 // https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
-public class FirstAndLastPosition34 {
+public class L34FirstAndLastPosition {
     public static void main(String[] args) {
         
     }    

@@ -1,7 +1,7 @@
 package leetcode;
 // https://leetcode.com/problems/first-bad-version/description/
 
-public class FirstBadVersion278 {
+public class L278FirstBadVersion {
 
     // 1st solution
 
